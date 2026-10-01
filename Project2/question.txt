@@ -1,0 +1,24 @@
+What do you prefer to do on weekends?
+Write code,Play games,Go out and socialize
+40,0,10
+0,40,10
+---
+When a program crashes or game freezes, what is your first reaction?
+Check error logs,Restart the game,Search online for solutions
+50,0,20
+0,30,20
+---
+What kind of sense of achievement do you enjoy more?
+Solving a complex bug,Winning a tough match,Completing a project
+45,0,25
+0,45,25
+---
+What is your desk / room usually like?
+Neat and organized,Covered in code,Game merchandise
+10,35,0
+10,0,35
+---
+If you were given $1000 how would you spend it?
+Buy courses,Buy games,Save it
+40,0,10
+0,40,10

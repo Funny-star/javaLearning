@@ -1,0 +1,33 @@
+MC
+What do you prefer to do on weekends?
+Write code,40,0
+Play games,0,40
+Go out,10,10
+
+MC
+When a program crashes, what is your first reaction?
+Check logs,50,0
+Restart,0,30
+Search online,20,20
+
+TF
+Do you enjoy solving logic puzzles?
+30,10
+10,30
+
+TF
+Is debugging the worst part of programming?
+-10,5
+5,-10
+
+NUM
+How many hours per week do you code?
+0,5,-10,20
+6,20,40,-10
+21,100,50,-20
+
+NUM
+What is your desired monthly salary (CNY)?
+0,3000,0,10
+3001,8000,10,5
+8001,20000,20,0

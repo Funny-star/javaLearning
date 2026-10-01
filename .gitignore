@@ -1,0 +1,50 @@
+# ============================================
+#  javaLearning · Git 忽略规则
+#  Java / IntelliJ IDEA 项目
+# ============================================
+
+# ---------- 编译输出 ----------
+out/
+bin/
+build/
+target/
+classes/
+*.class
+*.jar
+*.war
+*.ear
+
+# ---------- IntelliJ IDEA ----------
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ---------- Eclipse ----------
+.settings/
+.classpath
+.project
+.apt_generated
+.factorypath
+
+# ---------- NetBeans ----------
+nbproject/private/
+nbbuild/
+nbdist/
+
+# ---------- VS Code ----------
+.vscode/
+
+# ---------- 日志 ----------
+*.log
+hs_err_pid*
+replay_pid*
+
+# ---------- 系统文件 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 快捷方式 ----------
+*.lnk
